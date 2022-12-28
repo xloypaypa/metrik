@@ -12,6 +12,7 @@
 </details>
 <!-- END OF PROJECT TITLE -->
 
+trigger 1
 This is the backend API layer of *Metrik*, the 4-key-metrics measurement tool.
 
 # Tech Stack
